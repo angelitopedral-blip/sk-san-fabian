@@ -1,0 +1,1808 @@
+{
+ "title": "SK San Fabian Budget 2026 (open data)",
+ "generated": "2026-11-20",
+ "source": "Mga dokumentong natanggap ng LGU San Fabian (SK Annual Budget FY 2026, ABYIP CY 2026, CBYDP 2024-26); scanned, kaya maaaring may maling basa. Hindi opisyal na pinagmulan.",
+ "license": "CC BY 4.0",
+ "barangays": [
+  {
+   "barangay": "Alacan",
+   "slug": "alacan",
+   "sk_chairperson": "Jake B. Veloria",
+   "sk_budget_2026_php": 501437.6,
+   "general_administration_php": 356652.6,
+   "general_administration_pct": 71.1,
+   "youth_programs_php": 144785.0,
+   "youth_programs_pct": 28.9,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": 15.0,
+   "officials": null,
+   "top_programs": [],
+   "abyip_centers": [],
+   "updates_submitted": 1,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/alacan.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/alacan.pdf"
+  },
+  {
+   "barangay": "Ambalangan Dalin",
+   "slug": "ambalangan-dalin",
+   "sk_chairperson": "Adonis N. Marcena",
+   "sk_budget_2026_php": 513609.1,
+   "general_administration_php": 215402.0,
+   "general_administration_pct": 41.9,
+   "youth_programs_php": 298207.1,
+   "youth_programs_pct": 58.1,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": 11.7,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development Program",
+     "amount_php": 138207.1
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Education: Educational materials ₱35,000 + Brigada Eskwela ₱10,000",
+     "amount_php": 45000.0
+    },
+    {
+     "name": "Environment: Trash bins ₱30,000 + Tree planting ₱5,000",
+     "amount_php": 35000.0
+    },
+    {
+     "name": "Disaster Risk: First aid kit ₱15,000 + Symposium ₱5,000",
+     "amount_php": 20000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Active Citizenship",
+     "amount_php": 198207.1
+    },
+    {
+     "name": "Governance",
+     "amount_php": 215402.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 45000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 35000.0
+    },
+    {
+     "name": "Disaster Risk Reduction",
+     "amount_php": 20000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/ambalangan-dalin.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/ambalangan-dalin.pdf"
+  },
+  {
+   "barangay": "Angio",
+   "slug": "angio",
+   "sk_chairperson": "Cherry Joy M. Domo",
+   "sk_budget_2026_php": 692588.9,
+   "general_administration_php": 300147.22,
+   "general_administration_pct": 43.3,
+   "youth_programs_php": 392441.68,
+   "youth_programs_pct": 56.7,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": 11.6,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development: league sports ₱133,441.68 + supplies ₱40,000",
+     "amount_php": 173441.68
+    },
+    {
+     "name": "Education: School supplies",
+     "amount_php": 80000.0
+    },
+    {
+     "name": "Capability: Linggo ₱20,000 + Assembly ₱10,000 + Team-Building ₱20,000",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "Health: Seminar ₱10,000 + BADAC ₱12,000 + Prof. ₱3,000 + Feeding ₱10,000",
+     "amount_php": 35000.0
+    },
+    {
+     "name": "Disaster: Seminar ₱10,000 + Supplies ₱12,000 + Prof. ₱3,000",
+     "amount_php": 25000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 288147.22
+    },
+    {
+     "name": "Health",
+     "amount_php": 208441.68
+    },
+    {
+     "name": "Education",
+     "amount_php": 92000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Peace Building and Security",
+     "amount_php": 25000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Social Inclusion",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Economic, Global Mobility, Agriculture",
+     "amount_php": 9000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/angio.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/angio.pdf"
+  },
+  {
+   "barangay": "Anonang",
+   "slug": "anonang",
+   "sk_chairperson": "Mea Grace L. Peralta",
+   "sk_budget_2026_php": 844877.6,
+   "general_administration_php": 384877.6,
+   "general_administration_pct": 45.6,
+   "youth_programs_php": 460000.0,
+   "youth_programs_pct": 54.4,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 23.0,
+   "training_pct_of_budget": 11.8,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development (League Sports)",
+     "amount_php": 280000.0
+    },
+    {
+     "name": "Capacity Building: Linggo ₱90,000 + KK Assembly ₱10,000",
+     "amount_php": 100000.0
+    },
+    {
+     "name": "Education: School Supplies",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Environment: Clean-up drive at tree planting",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Health: Symposium sa First Aid ₱10,000 + Anti-Drug ₱10,000",
+     "amount_php": 20000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 384877.6
+    },
+    {
+     "name": "Social Inclusion (Sports)",
+     "amount_php": 280000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 100000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 20000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/anonang.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/anonang.pdf"
+  },
+  {
+   "barangay": "Aramal",
+   "slug": "aramal",
+   "sk_chairperson": "John Lester V. Sion",
+   "sk_budget_2026_php": 671921.8,
+   "general_administration_php": 284000.0,
+   "general_administration_pct": 42.3,
+   "youth_programs_php": 387921.8,
+   "youth_programs_pct": 57.7,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.1,
+   "training_pct_of_budget": 7.4,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development: supplies ₱42,921.80 + food ₱20,000 + officiating ₱50,000",
+     "amount_php": 112921.8
+    },
+    {
+     "name": "Education (kabuuan sa itaas ng pahina)",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "Linggo ng Kabataan ₱50,000 + Youth Activism ₱15,000",
+     "amount_php": 65000.0
+    },
+    {
+     "name": "Health: Wellness ₱20,000 + Feeding ₱20,000",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Trash bins ₱30,000 + Climate food supplies ₱10,000",
+     "amount_php": 40000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 254000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 177921.8
+    },
+    {
+     "name": "Education",
+     "amount_php": 80000.0
+    },
+    {
+     "name": "Peace Building",
+     "amount_php": 65000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 55000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 40000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/aramal.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/aramal.pdf"
+  },
+  {
+   "barangay": "Bigbiga",
+   "slug": "bigbiga",
+   "sk_chairperson": "Shiela Mae R. Martinez",
+   "sk_budget_2026_php": 400125.4,
+   "general_administration_php": 165325.4,
+   "general_administration_pct": 41.3,
+   "youth_programs_php": 234800.0,
+   "youth_programs_pct": 58.7,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.3,
+   "training_pct_of_budget": 8.7,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development: Sports ₱65,000 + materials ₱37,300 + repainting ng court ₱10,000",
+     "amount_php": 112300.0
+    },
+    {
+     "name": "Education: School supplies ₱45,000 + Gift incentives ₱9,000",
+     "amount_php": 54000.0
+    },
+    {
+     "name": "Environmental Rehabilitation",
+     "amount_php": 30500.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Health: Medicine kit ₱8,000 + Feeding ₱10,000",
+     "amount_php": 18000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 175325.4
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 122300.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 54000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 30500.0
+    },
+    {
+     "name": "Peace-Building",
+     "amount_php": 10000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 8000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/bigbiga.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/bigbiga.pdf"
+  },
+  {
+   "barangay": "Binday",
+   "slug": "binday",
+   "sk_chairperson": "Alta Grace P. Ternida",
+   "sk_budget_2026_php": 529038.2,
+   "general_administration_php": 264038.2,
+   "general_administration_pct": 49.9,
+   "youth_programs_php": 265000.0,
+   "youth_programs_pct": 50.1,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": 15.0,
+   "officials": null,
+   "top_programs": [],
+   "abyip_centers": [],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/binday.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/binday.pdf"
+  },
+  {
+   "barangay": "Bolaoen",
+   "slug": "bolaoen",
+   "sk_chairperson": "Aiza Mae A. Pascua",
+   "sk_budget_2026_php": 407402.8,
+   "general_administration_php": 232402.8,
+   "general_administration_pct": 57.0,
+   "youth_programs_php": 175000.0,
+   "youth_programs_pct": 43.0,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 23.9,
+   "training_pct_of_budget": 9.8,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development: materials ₱15,000 + food ₱10,000 + officiating ₱30,000",
+     "amount_php": 55000.0
+    },
+    {
+     "name": "Capability Building: Linggo ng Kabataan",
+     "amount_php": 55000.0
+    },
+    {
+     "name": "Education: School supplies",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Environmental Protection: Environmental Program",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Health: Anti-drug ₱5,000 + Feeding ₱10,000",
+     "amount_php": 15000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 232402.8
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 110000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 35000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 30000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/bolaoen.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/bolaoen.pdf"
+  },
+  {
+   "barangay": "Bolasi",
+   "slug": "bolasi",
+   "sk_chairperson": "Jerrycho M. Pedral",
+   "sk_budget_2026_php": 635114.6,
+   "general_administration_php": 228760.0,
+   "general_administration_pct": 36.0,
+   "youth_programs_php": 406354.6,
+   "youth_programs_pct": 64.0,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": 7.9,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Program: basketball at volleyball, kagamitan, sports clinic",
+     "amount_php": 150000.0
+    },
+    {
+     "name": "School Supplies Expenses",
+     "amount_php": 130000.0
+    },
+    {
+     "name": "Health Program: Libreng Tuli at Medical Check-up",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 36354.6
+    },
+    {
+     "name": "Environmental: Tree Planting, Clearing at trash bin",
+     "amount_php": 30000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Health",
+     "amount_php": 200000.0
+    },
+    {
+     "name": "Governance",
+     "amount_php": 228760.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 130000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 36354.6
+    },
+    {
+     "name": "Environment",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Peace-Building",
+     "amount_php": 10000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/bolasi.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/bolasi.pdf"
+  },
+  {
+   "barangay": "Cabaruan",
+   "slug": "cabaruan",
+   "sk_chairperson": "Kenneth Joshua D. Rocacorba",
+   "sk_budget_2026_php": 425602.7,
+   "general_administration_php": 275562.7,
+   "general_administration_pct": 64.8,
+   "youth_programs_php": 150000.0,
+   "youth_programs_pct": 35.2,
+   "other_php": 40.0,
+   "honorarium_pct_of_budget": 24.1,
+   "training_pct_of_budget": 15.0,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development: supplies ₱50,000 + officiating fees ₱60,000",
+     "amount_php": 110000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Environmental Protection: Trash cans",
+     "amount_php": 15000.0
+    },
+    {
+     "name": "Health at anti-drug: Anti-illegal drug campaign",
+     "amount_php": 5000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 225062.7
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 130000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 15000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 5000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/cabaruan.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/cabaruan.pdf"
+  },
+  {
+   "barangay": "Cayanga",
+   "slug": "cayanga",
+   "sk_chairperson": "Mary Ann N. Oca",
+   "sk_budget_2026_php": 844903.9,
+   "general_administration_php": 379903.9,
+   "general_administration_pct": 45.0,
+   "youth_programs_php": 465000.0,
+   "youth_programs_pct": 55.0,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": 10.3,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development: league sports ₱150,000 + supplies ₱20,000",
+     "amount_php": 170000.0
+    },
+    {
+     "name": "Education: school supplies ₱70,000 + printer ₱20,000 + library ₱20,000",
+     "amount_php": 110000.0
+    },
+    {
+     "name": "Capability Building: Linggo ₱35,000 + KK Assembly ₱15,000",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "Disaster Risk: seminar ₱15,000 + supplies ₱5,000 + hotline signage ₱25,000",
+     "amount_php": 45000.0
+    },
+    {
+     "name": "Health: first aid ₱20,000 + fun run ₱15,000 + BADAC ₱5,000",
+     "amount_php": 40000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 379903.9
+    },
+    {
+     "name": "Social Inclusion (Sports)",
+     "amount_php": 170000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 110000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "Peace Building",
+     "amount_php": 45000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 25000.0
+    },
+    {
+     "name": "Economic Empowerment",
+     "amount_php": 25000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/cayanga.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/cayanga.pdf"
+  },
+  {
+   "barangay": "Colisao",
+   "slug": "colisao",
+   "sk_chairperson": "Rachel Ann M. Laconsay",
+   "sk_budget_2026_php": 389318.2,
+   "general_administration_php": 176400.0,
+   "general_administration_pct": 45.3,
+   "youth_programs_php": 212918.2,
+   "youth_programs_pct": 54.7,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 22.2,
+   "training_pct_of_budget": 7.7,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports and Cultural Development 2026 (1-linggong sports fest)",
+     "amount_php": 75418.2
+    },
+    {
+     "name": "Education: Balik-Eskwela ₱20,000 + Tutorial ₱20,000",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Disaster: Emergency Kit ₱30,000 + Preparedness ₱3,500",
+     "amount_php": 33500.0
+    },
+    {
+     "name": "Health: SK Mini Botika ₱20,000 + Anti-Drug ₱3,500",
+     "amount_php": 23500.0
+    },
+    {
+     "name": "Linggo ng Kabataan 2026",
+     "amount_php": 20000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Sports at Active Citizenship",
+     "amount_php": 95418.2
+    },
+    {
+     "name": "Governance",
+     "amount_php": 90000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Peace Building",
+     "amount_php": 33500.0
+    },
+    {
+     "name": "Social Inclusion at Health",
+     "amount_php": 32000.0
+    },
+    {
+     "name": "Economic at Environment",
+     "amount_php": 12000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/colisao.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/colisao.pdf"
+  },
+  {
+   "barangay": "Gumot",
+   "slug": "gumot",
+   "sk_chairperson": "Angeline E. Disu",
+   "sk_budget_2026_php": 348274.4,
+   "general_administration_php": 149400.0,
+   "general_administration_pct": 42.9,
+   "youth_programs_php": 198874.4,
+   "youth_programs_pct": 57.1,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.8,
+   "training_pct_of_budget": 11.2,
+   "officials": 9,
+   "top_programs": [
+    {
+     "name": "Cultural and Sports Development Program",
+     "amount_php": 65000.0
+    },
+    {
+     "name": "Sports supplies at materyales",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Linggo ng Kabataan 2026",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Educational supplies",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Environmental management programs",
+     "amount_php": 25874.4
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Sports at Active Citizenship",
+     "amount_php": 95000.0
+    },
+    {
+     "name": "Governance",
+     "amount_php": 45000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 25874.4
+    },
+    {
+     "name": "Health",
+     "amount_php": 8000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/gumot.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/gumot.pdf"
+  },
+  {
+   "barangay": "Inmalog Norte",
+   "slug": "inmalog-norte",
+   "sk_chairperson": "Joshua S. Castronuevo",
+   "sk_budget_2026_php": 405136.4,
+   "general_administration_php": 185232.73,
+   "general_administration_pct": 45.7,
+   "youth_programs_php": 219904.0,
+   "youth_programs_pct": 54.3,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.0,
+   "training_pct_of_budget": 14.8,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Officiating Fee",
+     "amount_php": 45000.0
+    },
+    {
+     "name": "Liga ng Kabataan: Basketball League",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Balik eSKwela project",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Sports Supplies and Materials",
+     "amount_php": 25000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 170232.73
+    },
+    {
+     "name": "Active Citizenship (Sports)",
+     "amount_php": 130000.0
+    },
+    {
+     "name": "Peace-building at Security",
+     "amount_php": 45000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 10000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 9904.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/inmalog-norte.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/inmalog-norte.pdf"
+  },
+  {
+   "barangay": "Inmalog Sur",
+   "slug": "inmalog-sur",
+   "sk_chairperson": "Ara T. Hufana",
+   "sk_budget_2026_php": 466141.3,
+   "general_administration_php": 284141.3,
+   "general_administration_pct": 61.0,
+   "youth_programs_php": 182000.0,
+   "youth_programs_pct": 39.0,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.9,
+   "training_pct_of_budget": 8.6,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Purchase ng school supplies (subsidy)",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "Sports supplies and materials",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "First aid kit",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Purchase ng trash bins",
+     "amount_php": 10000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Education",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "Capability Building",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Sports",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Health at Anti-drug",
+     "amount_php": 27000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 10000.0
+    },
+    {
+     "name": "Disaster Risk Reduction",
+     "amount_php": 10000.0
+    },
+    {
+     "name": "Peace-building at Security",
+     "amount_php": 5000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/inmalog-sur.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/inmalog-sur.pdf"
+  },
+  {
+   "barangay": "Lekep-Butao",
+   "slug": "lekep-butao",
+   "sk_chairperson": "Juvy A. Ferreon",
+   "sk_budget_2026_php": 606135.1,
+   "general_administration_php": 254135.1,
+   "general_administration_pct": 41.9,
+   "youth_programs_php": 352000.0,
+   "youth_programs_pct": 58.1,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 22.1,
+   "training_pct_of_budget": 11.5,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Tournament",
+     "amount_php": 165000.0
+    },
+    {
+     "name": "Educational Assistance: School Supplies Kit",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "Capital Outlay: Zone Signages",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Environmental Program",
+     "amount_php": 20000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 254135.1
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 165000.0
+    },
+    {
+     "name": "Peace-Building",
+     "amount_php": 90000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 7000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/lekep-butao.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/lekep-butao.pdf"
+  },
+  {
+   "barangay": "Longos Central",
+   "slug": "longos-central",
+   "sk_chairperson": "Katrina Lolita L. Dismaya",
+   "sk_budget_2026_php": 584670.9,
+   "general_administration_php": 278670.9,
+   "general_administration_pct": 47.7,
+   "youth_programs_php": 306000.0,
+   "youth_programs_pct": 52.3,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.9,
+   "training_pct_of_budget": 13.7,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Repair ng Basketball Court at Bleacher (Capital Outlay)",
+     "amount_php": 200000.0
+    },
+    {
+     "name": "Education: School Essentials ₱50,000 + Academic Support ₱10,000",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Peace: Emergency Relief Goods",
+     "amount_php": 11000.0
+    },
+    {
+     "name": "BADAC Campaign",
+     "amount_php": 5000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 278670.9
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 225000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Peace Building",
+     "amount_php": 11000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 5000.0
+    },
+    {
+     "name": "Social Inclusion",
+     "amount_php": 5000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/longos-central.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/longos-central.pdf"
+  },
+  {
+   "barangay": "Longos Parac-Parac",
+   "slug": "longos-parac-parac",
+   "sk_chairperson": "Lovely D. Sagang",
+   "sk_budget_2026_php": 594468.0,
+   "general_administration_php": 311468.0,
+   "general_administration_pct": 52.4,
+   "youth_programs_php": 283000.0,
+   "youth_programs_pct": 47.6,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 23.6,
+   "training_pct_of_budget": 8.4,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Education: school supplies ₱40,000, free printing ₱20,000, academic contests ₱20,000",
+     "amount_php": 80000.0
+    },
+    {
+     "name": "Sports/E-Sports League: supplies ₱40,000, other professional services ₱20,000, other MOE ₱10,000",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "Capability Building: Linggo ₱30,000, SK & KK Assembly ₱10,000, cultural presentation ₱30,000",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "Disaster Risk: feeding ₱30,000, first aid kit ₱3,000",
+     "amount_php": 33000.0
+    },
+    {
+     "name": "Clean and Green Program",
+     "amount_php": 30000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 311468.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 80000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 110000.0
+    },
+    {
+     "name": "Peace-building at Security",
+     "amount_php": 33000.0
+    },
+    {
+     "name": "Social Inclusion at Equity",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 30000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/longos-parac-parac.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/longos-parac-parac.pdf"
+  },
+  {
+   "barangay": "Longos Proper",
+   "slug": "longos-proper",
+   "sk_chairperson": "Guillermo C. Nabua",
+   "sk_budget_2026_php": 526985.0,
+   "general_administration_php": 236985.0,
+   "general_administration_pct": 45.0,
+   "youth_programs_php": 290000.0,
+   "youth_programs_pct": 55.0,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 23.0,
+   "training_pct_of_budget": 15.0,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports League: officiating, supplies, kagamitan",
+     "amount_php": 110000.0
+    },
+    {
+     "name": "Education: Oplan Balik-Eskwela ₱40,000 + Free Printing ₱20,000",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Capability Building: Linggo ₱35,000 + KK Assembly ₱5,000",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Environmental: Signages ₱20,000 + Tree Planting ₱10,000",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Health: BADAC ₱5,000 + Feeding ₱15,000",
+     "amount_php": 20000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 236985.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 130000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Economic, Social, Peace, Agri",
+     "amount_php": 40000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/longos-proper.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/longos-proper.pdf"
+  },
+  {
+   "barangay": "Mabilao",
+   "slug": "mabilao",
+   "sk_chairperson": "Isaac Geneson S. Agbayani",
+   "sk_budget_2026_php": 642456.2,
+   "general_administration_php": 342456.2,
+   "general_administration_pct": 53.3,
+   "youth_programs_php": 300000.0,
+   "youth_programs_pct": 46.7,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.8,
+   "training_pct_of_budget": 14.9,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development: supplies ₱40,000 + Sports Fest ₱30,000",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "Education: Balik Eskwela ₱50,000, reading materials ₱10,000, reading buddies ₱5,000",
+     "amount_php": 65000.0
+    },
+    {
+     "name": "Health: Health kits ₱40,000, BLS ₱10,000, HIV symposium ₱5,000",
+     "amount_php": 55000.0
+    },
+    {
+     "name": "Peace-building: We Watch CCTV",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Environment: trash bins ₱30,000 + tree planting ₱5,000",
+     "amount_php": 35000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 342456.2
+    },
+    {
+     "name": "Sports",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 65000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 55000.0
+    },
+    {
+     "name": "Peace-building at Security",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 35000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 35000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/mabilao.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/mabilao.pdf"
+  },
+  {
+   "barangay": "Nibaliw Center",
+   "slug": "nibaliw-center",
+   "sk_chairperson": "Denver Fernandez",
+   "sk_budget_2026_php": 321684.0,
+   "general_administration_php": 148673.0,
+   "general_administration_pct": 43.5,
+   "youth_programs_php": 193011.0,
+   "youth_programs_pct": 56.5,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": 15.0,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Other MOOE: renovation ng SK hall at library",
+     "amount_php": 100000.0
+    },
+    {
+     "name": "Sports Program",
+     "amount_php": 25000.0
+    },
+    {
+     "name": "Environmental",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "School Supplies",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 16011.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 258673.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 25000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 16011.0
+    },
+    {
+     "name": "Disaster Risk Reduction",
+     "amount_php": 12000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/nibaliw-center.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/nibaliw-center.pdf"
+  },
+  {
+   "barangay": "Nibaliw East",
+   "slug": "nibaliw-east",
+   "sk_chairperson": "Vince Kale I. Jugo",
+   "sk_budget_2026_php": 533326.5,
+   "general_administration_php": 258326.5,
+   "general_administration_pct": 48.4,
+   "youth_programs_php": 225000.0,
+   "youth_programs_pct": 42.2,
+   "other_php": 50000.0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": null,
+   "officials": null,
+   "top_programs": [],
+   "abyip_centers": [],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/nibaliw-east.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/nibaliw-east.pdf"
+  },
+  {
+   "barangay": "Nibaliw Narvarte",
+   "slug": "nibaliw-narvarte",
+   "sk_chairperson": "Mike Migeal C. Salazar",
+   "sk_budget_2026_php": 588034.4,
+   "general_administration_php": 308034.4,
+   "general_administration_pct": 52.4,
+   "youth_programs_php": 280000.0,
+   "youth_programs_pct": 47.6,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.8,
+   "training_pct_of_budget": 13.6,
+   "officials": null,
+   "top_programs": [],
+   "abyip_centers": [],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/nibaliw-narvarte.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/nibaliw-narvarte.pdf"
+  },
+  {
+   "barangay": "Nibaliw West Vidal",
+   "slug": "nibaliw-west-vidal",
+   "sk_chairperson": "Charles Vincent M. Vidal",
+   "sk_budget_2026_php": 780911.5,
+   "general_administration_php": 294254.74,
+   "general_administration_pct": 37.7,
+   "youth_programs_php": 486656.76,
+   "youth_programs_pct": 62.3,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.3,
+   "training_pct_of_budget": 7.7,
+   "officials": null,
+   "top_programs": [],
+   "abyip_centers": [],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/nibaliw-west-vidal.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/nibaliw-west-vidal.pdf"
+  },
+  {
+   "barangay": "Palapad",
+   "slug": "palapad",
+   "sk_chairperson": "Josselle Anne D. Gonzalo",
+   "sk_budget_2026_php": 509262.4,
+   "general_administration_php": 226900.0,
+   "general_administration_pct": 44.6,
+   "youth_programs_php": 282362.4,
+   "youth_programs_pct": 55.4,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.9,
+   "training_pct_of_budget": 13.7,
+   "officials": null,
+   "top_programs": [],
+   "abyip_centers": [],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/palapad.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/palapad.pdf"
+  },
+  {
+   "barangay": "Poblacion",
+   "slug": "poblacion",
+   "sk_chairperson": "Tristan Magne L. Tercenio",
+   "sk_budget_2026_php": 750080.8,
+   "general_administration_php": 435080.8,
+   "general_administration_pct": 58.0,
+   "youth_programs_php": 315000.0,
+   "youth_programs_pct": 42.0,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.5,
+   "training_pct_of_budget": 10.7,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Environmental Protection: MRF ₱85,000 + trash bins ₱5,000",
+     "amount_php": 90000.0
+    },
+    {
+     "name": "Equitable access to quality education: school supplies",
+     "amount_php": 85000.0
+    },
+    {
+     "name": "Health: Gulay Pantry ₱30,000, Sports Fest ₱30,000, awareness ₱10,000",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "Disaster risk reduction: Go Bag",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Active Citizenship: Linggo ng Kabataan",
+     "amount_php": 10000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 435080.8
+    },
+    {
+     "name": "Environment",
+     "amount_php": 90000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 85000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 130000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 10000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/poblacion.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/poblacion.pdf"
+  },
+  {
+   "barangay": "Rabon",
+   "slug": "rabon",
+   "sk_chairperson": "Dale Mark N. Carreon",
+   "sk_budget_2026_php": 580263.6,
+   "general_administration_php": 334065.0,
+   "general_administration_pct": 57.6,
+   "youth_programs_php": 246198.6,
+   "youth_programs_pct": 42.4,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": 15.0,
+   "officials": 8,
+   "top_programs": [
+    {
+     "name": "Basketball League: supplies ₱25,000, food ₱25,000, officiating ₱60,000",
+     "amount_php": 110000.0
+    },
+    {
+     "name": "School supplies (subsidy)",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Linggo ng Kabataan (Capability Building)",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Poster Map (Advocacy)",
+     "amount_php": 20000.0
+    },
+    {
+     "name": "Anti-drug symposium at vitamins",
+     "amount_php": 15000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 334065.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 160000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 15000.0
+    },
+    {
+     "name": "Disaster Risk Reduction",
+     "amount_php": 11198.6
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/rabon.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/rabon.pdf"
+  },
+  {
+   "barangay": "Sagud-Bahley",
+   "slug": "sagud-bahley",
+   "sk_chairperson": "Pamela Ada Q. Fajardo",
+   "sk_budget_2026_php": 735032.6,
+   "general_administration_php": 343032.6,
+   "general_administration_pct": 46.7,
+   "youth_programs_php": 392000.0,
+   "youth_programs_pct": 53.3,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 25.0,
+   "training_pct_of_budget": 8.2,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development: supplies ₱75,000, league ₱82,000, prizes ₱35,000",
+     "amount_php": 192000.0
+    },
+    {
+     "name": "School supplies (education)",
+     "amount_php": 100000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 80000.0
+    },
+    {
+     "name": "MRF equipment (environmental protection)",
+     "amount_php": 20000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 343032.6
+    },
+    {
+     "name": "Sports Development",
+     "amount_php": 192000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 100000.0
+    },
+    {
+     "name": "Civic Engagement",
+     "amount_php": 80000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 20000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/sagud-bahley.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/sagud-bahley.pdf"
+  },
+  {
+   "barangay": "Sobol",
+   "slug": "sobol",
+   "sk_chairperson": "Salvador A. Langit Jr.",
+   "sk_budget_2026_php": 635640.9,
+   "general_administration_php": 259000.0,
+   "general_administration_pct": 40.7,
+   "youth_programs_php": 376640.9,
+   "youth_programs_pct": 59.3,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 22.7,
+   "training_pct_of_budget": 12.6,
+   "officials": 9,
+   "top_programs": [
+    {
+     "name": "Sports Development: officiating fees, supplies at materials",
+     "amount_php": 191640.9
+    },
+    {
+     "name": "Environmental Program",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "School and office supplies (subsidy)",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "Linggo ng Kabataan (Capability Building)",
+     "amount_php": 50000.0
+    },
+    {
+     "name": "BADAC Campaign (Health at Anti-drug)",
+     "amount_php": 15000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Health (Sports at BADAC)",
+     "amount_php": 206640.9
+    },
+    {
+     "name": "Governance",
+     "amount_php": 234000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 75000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 70000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 50000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/sobol.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/sobol.pdf"
+  },
+  {
+   "barangay": "Tempra-Guilig",
+   "slug": "tempra-guilig",
+   "sk_chairperson": "Almira V. Pandela",
+   "sk_budget_2026_php": 737569.8,
+   "general_administration_php": 241273.94,
+   "general_administration_pct": 32.7,
+   "youth_programs_php": 496295.86,
+   "youth_programs_pct": 67.3,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 20.0,
+   "training_pct_of_budget": 10.0,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development",
+     "amount_php": 125000.0
+    },
+    {
+     "name": "Environmental Protection",
+     "amount_php": 82000.0
+    },
+    {
+     "name": "Equitable Access to Quality Education",
+     "amount_php": 80000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 67000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 55183.44
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 226273.94
+    },
+    {
+     "name": "Social Inclusion and Equity",
+     "amount_php": 135000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 95000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 82000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 75000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 55183.44
+    },
+    {
+     "name": "Peace-building and Security",
+     "amount_php": 40000.0
+    },
+    {
+     "name": "Agriculture",
+     "amount_php": 14112.42
+    },
+    {
+     "name": "Economic Empowerment",
+     "amount_php": 10000.0
+    },
+    {
+     "name": "Global Mobility",
+     "amount_php": 5000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/tempra-guilig.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/tempra-guilig.pdf"
+  },
+  {
+   "barangay": "Tiblong",
+   "slug": "tiblong",
+   "sk_chairperson": "Dan Michael P. Oropesa",
+   "sk_budget_2026_php": 444484.5,
+   "general_administration_php": 223484.5,
+   "general_administration_pct": 50.3,
+   "youth_programs_php": 221000.0,
+   "youth_programs_pct": 49.7,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.3,
+   "training_pct_of_budget": 13.5,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Purchase of Educational Supplies",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Sports league (Basketball, Volleyball, Sepak Takraw)",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 45000.0
+    },
+    {
+     "name": "Waste Segregation",
+     "amount_php": 18000.0
+    },
+    {
+     "name": "Health Kits at Hygiene Kits",
+     "amount_php": 18000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Economic Empowerment",
+     "amount_php": 148000.0
+    },
+    {
+     "name": "Governance",
+     "amount_php": 80969.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 78000.0
+    },
+    {
+     "name": "Education",
+     "amount_php": 60000.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 55000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 28000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/tiblong.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/tiblong.pdf"
+  },
+  {
+   "barangay": "Tocok",
+   "slug": "tocok",
+   "sk_chairperson": "Jelena Rose H. Cabanlig",
+   "sk_budget_2026_php": 703914.4,
+   "general_administration_php": 385800.0,
+   "general_administration_pct": 54.8,
+   "youth_programs_php": 318114.4,
+   "youth_programs_pct": 45.2,
+   "other_php": 0,
+   "honorarium_pct_of_budget": 24.5,
+   "training_pct_of_budget": 14.2,
+   "officials": 10,
+   "top_programs": [
+    {
+     "name": "Sports Development: supplies, pagkain at officiating fees",
+     "amount_php": 85000.0
+    },
+    {
+     "name": "School kit (subsidy)",
+     "amount_php": 80000.0
+    },
+    {
+     "name": "Linggo ng Kabataan",
+     "amount_php": 54114.4
+    },
+    {
+     "name": "Tupig-Making Contest at Promotion of Local Products",
+     "amount_php": 30000.0
+    },
+    {
+     "name": "Medical/First Aid Kit",
+     "amount_php": 29000.0
+    }
+   ],
+   "abyip_centers": [
+    {
+     "name": "Governance",
+     "amount_php": 395800.0
+    },
+    {
+     "name": "Active Citizenship",
+     "amount_php": 169114.4
+    },
+    {
+     "name": "Education",
+     "amount_php": 80000.0
+    },
+    {
+     "name": "Health",
+     "amount_php": 44000.0
+    },
+    {
+     "name": "Environment",
+     "amount_php": 10000.0
+    },
+    {
+     "name": "Peace-Building and Security",
+     "amount_php": 5000.0
+    }
+   ],
+   "updates_submitted": 0,
+   "page": "https://angelitopedral-blip.github.io/sk-san-fabian/b/tocok.html",
+   "original_scan_pdf": "https://angelitopedral-blip.github.io/sk-san-fabian/pdf/tocok.pdf"
+  }
+ ]
+}
